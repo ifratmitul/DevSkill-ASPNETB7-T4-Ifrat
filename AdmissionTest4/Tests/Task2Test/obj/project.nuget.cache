@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1A9tjjO2pDgJDNoYvg+zs+yg14oKe1TRDw2MDx/iSusimfOEtdI+EE+aE8n0tu+kZhk9Ot4CkSr0hEeGQDm+qA==",
+  "dgSpecHash": "Lzx91oARb3dxyy4tz24vji7EpKUzavs9t8o7n6BXoksmeOl+5F0alpqQuFg8kqIs9aj2F+TqP/m2BpKsru8rPg==",
   "success": true,
-  "projectFilePath": "/home/mitul/aspnetb7-at4/AdmissionTest4/Tests/Task2Test/Task2Test.csproj",
+  "projectFilePath": "/home/mitul/DevSkill-Test/AdmissionTest4/Tests/Task2Test/Task2Test.csproj",
   "expectedPackageFiles": [
     "/home/mitul/.nuget/packages/coverlet.collector/3.1.0/coverlet.collector.3.1.0.nupkg.sha512",
     "/home/mitul/.nuget/packages/microsoft.codecoverage/16.11.0/microsoft.codecoverage.16.11.0.nupkg.sha512",

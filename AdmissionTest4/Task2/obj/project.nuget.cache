@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uQmAuozB6i7pKsTcFbegFpkH7Ks0sVA3KphWD0w7gHbJ4G6wVx6owHvQA2k7qfTpU264s0ZN0BlRcyCsA3hlwQ==",
+  "dgSpecHash": "dFuV1l4uX4Ykfp2hhyC0VJWo5+T5cFXEMmjXDZ0FUKz1y2H1mCxSjcyqSEfbP7PH7BGHNnAfWhJMr6ZXCF73eQ==",
   "success": true,
-  "projectFilePath": "/home/mitul/aspnetb7-at4/AdmissionTest4/Task2/Task2.csproj",
+  "projectFilePath": "/home/mitul/DevSkill-Test/AdmissionTest4/Task2/Task2.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
