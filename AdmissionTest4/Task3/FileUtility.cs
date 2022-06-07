@@ -10,7 +10,9 @@ namespace Task3
     {
         public void WriteLine(string text)
         {
-            throw new NotImplementedException();
+            var writer = new StringBuilder();
+            writer.Append(text);
+            File.WriteAllText(@"./Data.txt", writer.ToString());
         }
     }
 }

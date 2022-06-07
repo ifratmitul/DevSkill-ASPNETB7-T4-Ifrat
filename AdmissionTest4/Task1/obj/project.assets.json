@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mitul/aspnetb7-at4/AdmissionTest4/Task1/Task1.csproj",
+      "projectUniqueName": "/home/mitul/DevSkill-Test/AdmissionTest4/Task1/Task1.csproj",
       "projectName": "Task1",
-      "projectPath": "/home/mitul/aspnetb7-at4/AdmissionTest4/Task1/Task1.csproj",
+      "projectPath": "/home/mitul/DevSkill-Test/AdmissionTest4/Task1/Task1.csproj",
       "packagesPath": "/home/mitul/.nuget/packages/",
-      "outputPath": "/home/mitul/aspnetb7-at4/AdmissionTest4/Task1/obj/",
+      "outputPath": "/home/mitul/DevSkill-Test/AdmissionTest4/Task1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/mitul/.nuget/NuGet/NuGet.Config"

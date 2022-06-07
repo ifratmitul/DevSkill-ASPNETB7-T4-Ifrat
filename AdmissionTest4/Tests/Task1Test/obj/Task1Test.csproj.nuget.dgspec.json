@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/mitul/aspnetb7-at4/AdmissionTest4/Tests/Task1Test/Task1Test.csproj": {}
+    "/home/mitul/DevSkill-Test/AdmissionTest4/Tests/Task1Test/Task1Test.csproj": {}
   },
   "projects": {
-    "/home/mitul/aspnetb7-at4/AdmissionTest4/Task1/Task1.csproj": {
+    "/home/mitul/DevSkill-Test/AdmissionTest4/Task1/Task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mitul/aspnetb7-at4/AdmissionTest4/Task1/Task1.csproj",
+        "projectUniqueName": "/home/mitul/DevSkill-Test/AdmissionTest4/Task1/Task1.csproj",
         "projectName": "Task1",
-        "projectPath": "/home/mitul/aspnetb7-at4/AdmissionTest4/Task1/Task1.csproj",
+        "projectPath": "/home/mitul/DevSkill-Test/AdmissionTest4/Task1/Task1.csproj",
         "packagesPath": "/home/mitul/.nuget/packages/",
-        "outputPath": "/home/mitul/aspnetb7-at4/AdmissionTest4/Task1/obj/",
+        "outputPath": "/home/mitul/DevSkill-Test/AdmissionTest4/Task1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/mitul/.nuget/NuGet/NuGet.Config"
@@ -56,14 +56,14 @@
         }
       }
     },
-    "/home/mitul/aspnetb7-at4/AdmissionTest4/Tests/Task1Test/Task1Test.csproj": {
+    "/home/mitul/DevSkill-Test/AdmissionTest4/Tests/Task1Test/Task1Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mitul/aspnetb7-at4/AdmissionTest4/Tests/Task1Test/Task1Test.csproj",
+        "projectUniqueName": "/home/mitul/DevSkill-Test/AdmissionTest4/Tests/Task1Test/Task1Test.csproj",
         "projectName": "Task1Test",
-        "projectPath": "/home/mitul/aspnetb7-at4/AdmissionTest4/Tests/Task1Test/Task1Test.csproj",
+        "projectPath": "/home/mitul/DevSkill-Test/AdmissionTest4/Tests/Task1Test/Task1Test.csproj",
         "packagesPath": "/home/mitul/.nuget/packages/",
-        "outputPath": "/home/mitul/aspnetb7-at4/AdmissionTest4/Tests/Task1Test/obj/",
+        "outputPath": "/home/mitul/DevSkill-Test/AdmissionTest4/Tests/Task1Test/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/mitul/.nuget/NuGet/NuGet.Config"
@@ -78,8 +78,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/home/mitul/aspnetb7-at4/AdmissionTest4/Task1/Task1.csproj": {
-                "projectPath": "/home/mitul/aspnetb7-at4/AdmissionTest4/Task1/Task1.csproj"
+              "/home/mitul/DevSkill-Test/AdmissionTest4/Task1/Task1.csproj": {
+                "projectPath": "/home/mitul/DevSkill-Test/AdmissionTest4/Task1/Task1.csproj"
               }
             }
           }

@@ -1,2 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+using Task1;
+WordCounter wc = new WordCounter();
+wc.Count("my$password");

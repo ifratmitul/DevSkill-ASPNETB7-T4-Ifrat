@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/mitul/aspnetb7-at4/AdmissionTest4/Task4/Task4.csproj": {}
+    "/home/mitul/DevSkill-Test/AdmissionTest4/Task4/Task4.csproj": {}
   },
   "projects": {
-    "/home/mitul/aspnetb7-at4/AdmissionTest4/Task4/Task4.csproj": {
+    "/home/mitul/DevSkill-Test/AdmissionTest4/Task4/Task4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mitul/aspnetb7-at4/AdmissionTest4/Task4/Task4.csproj",
+        "projectUniqueName": "/home/mitul/DevSkill-Test/AdmissionTest4/Task4/Task4.csproj",
         "projectName": "Task4",
-        "projectPath": "/home/mitul/aspnetb7-at4/AdmissionTest4/Task4/Task4.csproj",
+        "projectPath": "/home/mitul/DevSkill-Test/AdmissionTest4/Task4/Task4.csproj",
         "packagesPath": "/home/mitul/.nuget/packages/",
-        "outputPath": "/home/mitul/aspnetb7-at4/AdmissionTest4/Task4/obj/",
+        "outputPath": "/home/mitul/DevSkill-Test/AdmissionTest4/Task4/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/mitul/.nuget/NuGet/NuGet.Config"
