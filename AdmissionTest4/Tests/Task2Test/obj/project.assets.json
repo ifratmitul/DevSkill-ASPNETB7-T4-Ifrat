@@ -3876,11 +3876,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mitul/aspnetb7-at4/AdmissionTest4/Tests/Task2Test/Task2Test.csproj",
+      "projectUniqueName": "/home/mitul/DevSkill-Test/AdmissionTest4/Tests/Task2Test/Task2Test.csproj",
       "projectName": "Task2Test",
-      "projectPath": "/home/mitul/aspnetb7-at4/AdmissionTest4/Tests/Task2Test/Task2Test.csproj",
+      "projectPath": "/home/mitul/DevSkill-Test/AdmissionTest4/Tests/Task2Test/Task2Test.csproj",
       "packagesPath": "/home/mitul/.nuget/packages/",
-      "outputPath": "/home/mitul/aspnetb7-at4/AdmissionTest4/Tests/Task2Test/obj/",
+      "outputPath": "/home/mitul/DevSkill-Test/AdmissionTest4/Tests/Task2Test/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/mitul/.nuget/NuGet/NuGet.Config"
@@ -3895,8 +3895,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/home/mitul/aspnetb7-at4/AdmissionTest4/Task2/Task2.csproj": {
-              "projectPath": "/home/mitul/aspnetb7-at4/AdmissionTest4/Task2/Task2.csproj"
+            "/home/mitul/DevSkill-Test/AdmissionTest4/Task2/Task2.csproj": {
+              "projectPath": "/home/mitul/DevSkill-Test/AdmissionTest4/Task2/Task2.csproj"
             }
           }
         }
